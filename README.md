@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ciallo ～(∠・ω< )⌒★! Here's C-W-Z, or you can call me Icya
+# Ciallo ～(∠・ω< )⌒★! Here's C.W.Z., or you can call me Icya
 
 <div align="justify">
 
