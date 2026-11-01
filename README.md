@@ -1,19 +1,20 @@
 <div align="center">
 
-# Self Introduction
+# Ciallo ～(∠・ω< )⌒★! I'm C-W-Z, or you can call me Icya
 
-A CS grad student, I’m fascinated by the inner workings of games.
-<br/>
-For me, modding is the ultimate way to explore that passion.
-<br/>
+<div align="justify">
 
-https://linktr.ee/icya.io
+Some people write stories with words; I like writing mine with code. I find beauty in elegant systems, freedom in open source, and endless possibilities in things that haven't been built yet. Between debugging reality and dreaming up imaginary worlds, I keep collecting little fragments of wonder. Perhaps the joy of creating isn't in reaching the end, but in discovering what lies beyond the next line.
 
-Personal website: [https://c-w-z.github.io/](https://c-w-z.github.io/)
+</div>
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W71W9C7K)
+<div align="left">
+  
+> 🎨 Avatar illustrated by myself: https://linktr.ee/icya.io
 
-# Statistics
+</div>
+
+## Statistics
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=C-W-Z&theme=nord_bright)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=C-W-Z&theme=nord_bright)
